@@ -1,6 +1,6 @@
 def square_array(array)
-  array.each do { aggravating_array << **}
-    array = aggravating_array
+  array.each do { |i| i << **}
+
   end
 
 
