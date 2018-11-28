@@ -3,7 +3,6 @@ def square_array(array)
   array.each {|i| print i}
 
  return b
-  end
 
 
 end
