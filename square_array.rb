@@ -1,6 +1,6 @@
 def square_array(array)
   b = Array.new
-  array.each {|i|, b.push(i)}
+  array.each {|i|, print i}
 
  return b
   end
