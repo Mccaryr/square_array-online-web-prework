@@ -1,5 +1,5 @@
 def square_array(array)
-  array.each.map
+  array.each do map
 
 
 end
